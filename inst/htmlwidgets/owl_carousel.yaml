@@ -9,4 +9,6 @@ dependencies:
    version: 2.3.4
    src: htmlwidgets/owl_carousel
    script: owl.carousel.min.js
-   stylesheet: owl.carousel.min.css
+   stylesheet:
+    - owl.carousel.min.css
+    - style.css
